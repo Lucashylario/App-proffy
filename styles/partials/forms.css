@@ -1,11 +1,9 @@
-
 .select-block label,
 .input-block label,
 .textarea-block label {
     font-size: 1.4rem;
     color: var(--color-text-complement);
 }
-
 
 .input-block input,
 .select-block select,
